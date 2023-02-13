@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/thunderobot/static/css/main.33a9090e.css",
-    "main.js": "/thunderobot/static/js/main.fe96ae7e.js",
+    "main.js": "/thunderobot/static/js/main.dc3aeca3.js",
     "static/media/hero.jpg": "/thunderobot/static/media/hero.13e2665439073118b831.jpg",
     "static/media/product-bg.png": "/thunderobot/static/media/product-bg.f0a7075f799fbff6b437.png",
     "static/media/logo.png": "/thunderobot/static/media/logo.3611e6b92c043ed8de95.png",
     "index.html": "/thunderobot/index.html",
     "main.33a9090e.css.map": "/thunderobot/static/css/main.33a9090e.css.map",
-    "main.fe96ae7e.js.map": "/thunderobot/static/js/main.fe96ae7e.js.map"
+    "main.dc3aeca3.js.map": "/thunderobot/static/js/main.dc3aeca3.js.map"
   },
   "entrypoints": [
     "static/css/main.33a9090e.css",
-    "static/js/main.fe96ae7e.js"
+    "static/js/main.dc3aeca3.js"
   ]
 }
